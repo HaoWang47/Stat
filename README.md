@@ -1,1 +1,1 @@
-# This is the final project. Our code is in the R files, with Preprocessing being the preprocessing of our data and the SentimentMixedModels containing the actual building of the models. 
+# This is the final project. Our code is in the R files, with Preprocessing being the preprocessing of our data and the SentimentMixedModels containing the actual building of the models. The final paper is in Stat561.pdf and the poster used in the presentation is in the powerpoint document.
